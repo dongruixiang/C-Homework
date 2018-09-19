@@ -1,0 +1,6 @@
+E:\CSharpHomework\homework1\homework1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\CSharpHomework\homework1\homework1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\CSharpHomework\homework1\homework1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\CSharpHomework\homework1\homework1\ConsoleApplication1\obj\Debug\Program1.csprojResolveAssemblyReference.cache
+E:\CSharpHomework\homework1\homework1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\CSharpHomework\homework1\homework1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
